@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510479240465",
+    "project_id": "flutterdoner-219e8",
+    "storage_bucket": "flutterdoner-219e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510479240465:android:34d56b4475903ed2fbd0b0",
+        "android_client_info": {
+          "package_name": "com.zoople.firedoner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Ujg_-JUXDuj8vbf4s2akajoyzcIDlY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
